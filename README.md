@@ -1,0 +1,2 @@
+#やったこと
+Github Desktop のインストール
